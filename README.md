@@ -28,7 +28,7 @@
 </div>
 
 ### 📫 Como entrar em contato comigo
-<a onclick='window.open("https://www.linkedin.com/in/thvinicius/");return false;' >
+<a target="_blank" href="https://www.linkedin.com/in/thvinicius/" >
   <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
