@@ -29,6 +29,16 @@
 
 #
 
+### Estatísticas GitHub
+
+<div>
+<a href="https://github.com/ThVinicius">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+#
+
 ### 📫 Como entrar em contato comigo
 <div>
   <a href = "mailto:vinicioss9955@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
