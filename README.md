@@ -30,9 +30,6 @@
 ### 📫 Como entrar em contato comigo
 Email: vinicioss9955@gmail.com
 
-<a target="_blank" href="https://www.linkedin.com/in/thvinicius/" >
-  <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 
 <!--
 **ThVinicius/ThVinicius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
