@@ -1,6 +1,12 @@
 # Olá, me chamo Vinicius Pacheco ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
+Eu sou um Desenvolvedor full stack formado na Driven Education
+
+⚡ Curiosidade:
+Gosto muito de ler/assistir mangas, animes, série e webnovels. Unindo essa minha paixão com minhas habilidades de um desenvolvedor full stack surgiu o GeekBook um gerenciador de obras geeks ([minha lista](https://geek-book.vercel.app/shared/xPqn2OxDl)).
+
+
 ### <img width="26" src="https://media1.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif"> Tecnologias e Ferramentas
 
 
