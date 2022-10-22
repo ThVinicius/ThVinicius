@@ -1,7 +1,7 @@
 # Olá, me chamo Vinicius Pacheco ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-### <img width="26" src="https://media1.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif"> Languages & Tools
+### <img width="26" src="https://media1.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif"> Tecnologias e Ferramentas
 
 
 <div>
@@ -27,8 +27,10 @@
   <img align="center" title="AWS" alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div>
 
+#
+
 ### 📫 Como entrar em contato comigo
-Email: vinicioss9955@gmail.com
+<a href = "mailto:vinicioss9955@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
 <!--
