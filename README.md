@@ -3,7 +3,8 @@
 
 Eu sou um Desenvolvedor full stack formado na Driven Education
 
-⚡ Curiosidade:
+#### ⚡ Curiosidade:
+
 Gosto muito de ler/assistir mangas, animes, série e webnovels. Unindo essa minha paixão com minhas habilidades de um desenvolvedor full stack surgiu o GeekBook um gerenciador de obras geeks ([minha lista](https://geek-book.vercel.app/shared/xPqn2OxDl)).
 
 
