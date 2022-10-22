@@ -1,4 +1,5 @@
-### Hi there 👋
+# Olá, me chamo Vinicius Pacheco ! 
+## Bem vindo ao meu perfil GitHub 👋
 
 ### <img width="26" src="https://media1.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif"> Languages & Tools
 
@@ -25,6 +26,11 @@
   <img align="center" title="GitHub-actions" alt="GitHub-actions" src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img align="center" title="AWS" alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div>
+
+### 📫 Como entrar em contato comigo
+<a href="https://www.linkedin.com/in/thvinicius/" target="_blank" >
+  <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 <!--
 **ThVinicius/ThVinicius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
