@@ -1,4 +1,5 @@
-# Olá, me chamo Vinicius Pacheco ! 
+# Olá, me chamo Vinicius Pacheco !
+
 ## Bem vindo ao meu perfil GitHub 👋
 
 Eu sou um Desenvolvedor full stack formado na Driven Education
@@ -7,10 +8,9 @@ Eu sou um Desenvolvedor full stack formado na Driven Education
 
 Gosto muito de ler/assistir mangas, animes, série e webnovels. Unindo essa minha paixão com minhas habilidades de um desenvolvedor full stack surgiu o GeekBook um gerenciador de obras geeks ([minha lista](https://geek-book.vercel.app/shared/xPqn2OxDl)).
 
-
 ### <img width="26" src="https://media1.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif"> Tecnologias e Ferramentas
 
-#### *FrontEnd*
+#### _FrontEnd_
 
 <div>
   <img align="center" title="HTML" alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -21,7 +21,7 @@ Gosto muito de ler/assistir mangas, animes, série e webnovels. Unindo essa minh
   <img align="center" title="Cypress" alt="Cypress" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" />
 </div>
 
-#### *BackEnd*
+#### _BackEnd_
 
 <div>
   <img align="center" title="Node.js" alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -33,7 +33,7 @@ Gosto muito de ler/assistir mangas, animes, série e webnovels. Unindo essa minh
   <img align="center" title="Jest" alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" />
 </div>
 
-#### *DevOps*
+#### _DevOps_
 
 <div>
   <img align="center" title="Docker" alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
@@ -41,7 +41,7 @@ Gosto muito de ler/assistir mangas, animes, série e webnovels. Unindo essa minh
   <img align="center" title="AWS" alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div>
 
-#### *Ferramentas*
+#### _Ferramentas_
 
 <div>
   <img align="center" title="VS Code" alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
@@ -63,12 +63,17 @@ Gosto muito de ler/assistir mangas, animes, série e webnovels. Unindo essa minh
 
 #
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+#
+
 ### 📫 Como entrar em contato comigo
+
 <div>
   <a href = "mailto:vinicioss9955@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thvinicius" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
 
 <!--
 **ThVinicius/ThVinicius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
