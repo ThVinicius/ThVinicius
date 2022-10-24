@@ -151,6 +151,10 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 #
 
+[Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime/?&ThVinicius&layout=compact&&theme=default&link="https://www.github.com/ThVinicius/") 
+
+#
+
 ### 📫 Como entrar em contato comigo
 
 <div>
