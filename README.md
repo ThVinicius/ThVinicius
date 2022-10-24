@@ -63,6 +63,8 @@ Gosto muito de ler/assistir mangas, animes, série e webnovels. Unindo essa minh
 
 #
 
+### Estatísticas Wakatime
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-791%20hrs%203%20mins-blue)
 
