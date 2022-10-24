@@ -63,6 +63,12 @@ Gosto muito de ler/assistir mangas, animes, série e webnovels. Unindo essa minh
 
 #
 
+[![Vinicius's Wakatime](https://wakatime.com/badge/user/f2dd57e4-c214-4655-b588-585174b3fcb5.svg?style=for-the-badge)](https://wakatime.com/@f2dd57e4-c214-4655-b588-585174b3fcb5)
+
+[![VInicius's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ThVinicius&layout=compact&langs_count=6&theme=dracula)](https://github.com/ThVinicius/github-readme-stats)
+
+#
+
 ### 📫 Como entrar em contato comigo
 <div>
   <a href = "mailto:vinicioss9955@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
