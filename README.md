@@ -137,12 +137,6 @@ HTML                     2 repos             █░░░░░░░░░░�
 Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.17%
 ```
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/ThVinicius/ThVinicius/main/charts/bar_graph.png) 
-
-
  Last Updated on 09/11/2022 18:49:09 UTC
 <!--END_SECTION:waka-->
 
