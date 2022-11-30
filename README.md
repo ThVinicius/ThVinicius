@@ -42,6 +42,7 @@ Gosto muito de ler/assistir mangas, animes, série e webnovels. Unindo essa minh
 
 <div>
   <img align="center" title="Docker" alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img align="center" title="NGINX" alt="NGINX" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
   <img align="center" title="GitHub-actions" alt="GitHub-actions" src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img align="center" title="AWS" alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div>
