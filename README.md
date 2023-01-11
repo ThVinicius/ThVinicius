@@ -71,7 +71,7 @@ Gosto muito de ler/assistir mangas, animes, série e webnovels. Unindo essa minh
 
 <div>
 <a href="https://github.com/ThVinicius">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThVinicius&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats-thvinicius.vercel.app/api/top-langs/?username=ThVinicius&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThVinicius&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
