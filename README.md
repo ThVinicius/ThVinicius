@@ -82,16 +82,16 @@ Gosto muito de ler/assistir mangas, animes, série e webnovels. Unindo essa minh
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 March 2022 - To: 09 January 2023
+From: 23 March 2022 - To: 10 January 2023
 
-Total Time: 970 hrs 54 mins
+Total Time: 976 hrs 29 mins
 
-JavaScript                 597 hrs 16 mins ███████████████▒░░░░░░░░░   61.52 %
-TypeScript                 180 hrs 27 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.59 %
-CSS                        56 hrs 13 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
-HTML                       24 hrs 47 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
-Markdown                   22 hrs 7 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
-Other                      18 hrs 13 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+JavaScript                 597 hrs 16 mins ███████████████▒░░░░░░░░░   61.16 %
+TypeScript                 182 hrs 15 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.66 %
+CSS                        56 hrs 13 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
+HTML                       24 hrs 47 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+Markdown                   22 hrs 56 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+Other                      18 hrs 30 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
 ```
 
 <!--END_SECTION:waka-->
