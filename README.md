@@ -8,6 +8,8 @@ Eu sou um Desenvolvedor full stack formado na Driven Education
 
 Gosto muito de ler/assistir mangas, animes, série e webnovels. Unindo essa minha paixão com minhas habilidades de um desenvolvedor full stack surgiu o GeekBook um gerenciador de obras geeks ([minha lista](https://geek-book.vercel.app/shared/xPqn2OxDl)).
 
+Confira meu portfolio [aqui](https://portfolio-thvinicius.vercel.app/)
+
 ### <img width="26" src="https://media1.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif"> Tecnologias e Ferramentas
 
 #### _FrontEnd_
