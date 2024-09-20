@@ -87,15 +87,15 @@ Confira meu portfolio [aqui](https://portfolio-thvinicius.vercel.app/)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 March 2022 - To: 17 September 2024
+From: 23 March 2022 - To: 18 September 2024
 
-Total Time: 2,685 hrs 26 mins
+Total Time: 2,686 hrs 57 mins
 
-TypeScript                 1,698 hrs 7 mins███████████████▓░░░░░░░░░   63.23 %
-JavaScript                 616 hrs 34 mins █████▓░░░░░░░░░░░░░░░░░░░   22.96 %
-CSS                        59 hrs 14 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+TypeScript                 1,699 hrs 36 mins███████████████▓░░░░░░░░░   63.25 %
+JavaScript                 616 hrs 34 mins █████▓░░░░░░░░░░░░░░░░░░░   22.95 %
+CSS                        59 hrs 14 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
 Java                       54 hrs 37 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
-Bash                       52 hrs 13 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+Bash                       52 hrs 15 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
 ```
 
 <!--END_SECTION:waka-->
