@@ -87,7 +87,7 @@ Confira meu portfolio [aqui](https://portfolio-thvinicius.vercel.app/)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 March 2022 - To: 14 March 2026
+From: 23 March 2022 - To: 15 March 2026
 
 Total Time: 3,597 hrs 15 mins
 
